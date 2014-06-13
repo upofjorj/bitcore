@@ -10,3 +10,4 @@ tags
 coverage
 .DS_Store
 docs
+npm*.log
